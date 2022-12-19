@@ -1,0 +1,2 @@
+Prefix plugins/CSVColumns/example
+Plugin CSVColumns inputfile parameters.txt outputfile output.csv
